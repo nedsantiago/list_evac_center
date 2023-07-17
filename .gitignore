@@ -1,0 +1,6 @@
+# ignore input and output
+.pytest_cache
+__pycache__
+list_evac_center/
+test_data/
+*.xls*

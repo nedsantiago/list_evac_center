@@ -118,5 +118,6 @@ class evac_list_processor():
         string = sub(REGEX2, r".", string=string)
         return string
 
+
 if __name__ == "__main__":
     main()
