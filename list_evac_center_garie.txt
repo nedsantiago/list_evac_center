@@ -80,9 +80,9 @@ Cargel Elemenraty School Bray. Carael Camliing, Tarlac 60 15.7254 120.44
 
 Cayaoan Barangay Hall Brgy. Cayaoan Camiling, Tarlac 50 15.6964998 | 120.4160004
 
-Cayaoan Elem School Bray. Cayaoan Camiling, Tarlac 300 156962996 | 120.4150009
+Cayaoan Elem School Bray. Cayaoan Camiling, Tarlac 300 15.6962996 | 120.4150009
 
-Cayasan Barangay Hall Brgy Coyasan Camiling, Tarlac 30 156733999 | 1203649979 |
+Cayasan Barangay Hall Brgy Coyasan Camiling, Tarlac 30 15.6733999 | 120.3649979 |
 
 Cayasan child Devt center | Bray Cayasan Camiling, Tarlac 15 15.6736002 | 120.3637784
 
